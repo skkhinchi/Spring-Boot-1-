@@ -1,0 +1,5 @@
+Create Main Package
+then Create Model Package and create 2 java programe for Model and Sevice
+then Create Repository Package for perform CRUD Operation.
+and create .sql file for data base
+and after that in application.properties  file enabled H2 Database.
